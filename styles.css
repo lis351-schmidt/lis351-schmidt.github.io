@@ -1,0 +1,28 @@
+header h1 {
+    font-family: "Times New Roman", Georgia, serif;
+}
+body {
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+body.past-page main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body.past-page main img {
+    width: 70%;
+    max-width: 600px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
