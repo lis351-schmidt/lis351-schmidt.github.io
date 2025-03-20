@@ -1,5 +1,94 @@
 # lis351-schmidt.github.io
-## Updates
+## Updates (3/20/25)
+# Added Ordered List and Detailed List to the Records Page
+
+### Ordered List of High-Speed Trains
+
+1. **SNCF TGV POS**  
+   - **Top Speed**: 574.8 km/h (357 mph)  
+   - **Country**: France  
+   - **Year**: 2007  
+
+2. **CRH380BL**  
+   - **Top Speed**: 487.3 km/h (303 mph)  
+   - **Country**: China  
+   - **Year**: 2010  
+
+3. **Class 955 Shinkansen**  
+   - **Top Speed**: 443.0 km/h (275 mph)  
+   - **Country**: Japan  
+   - **Year**: 1996  
+
+4. **Hyundai Rotem HEMU-430X**  
+   - **Top Speed**: 421.4 km/h (262 mph)  
+   - **Country**: South Korea  
+   - **Year**: 2013  
+
+5. **Siemens Velaro E/Ave S-103**  
+   - **Top Speed**: 403 km/h (251 mph)  
+   - **Country**: Spain  
+   - **Year**: 2006  
+
+6. **ICE 3/DB BR 406**  
+   - **Top Speed**: 368.4 km/h (229 mph)  
+   - **Country**: Germany  
+   - **Year**: 2001  
+
+7. **ETR 500 Frecciarossa**  
+   - **Top Speed**: 362 km/h (225 mph)  
+   - **Country**: Italy  
+   - **Year**: 2009  
+
+8. **Siemens EuroSprinter**  
+   - **Top Speed**: 357 km/h (222 mph)  
+   - **Country**: Germany  
+   - **Year**: 2006  
+
+9. **BR Class 373/Eurostar e300**  
+   - **Top Speed**: 334.7 km/h (208 mph)  
+   - **Country**: United Kingdom  
+   - **Year**: 2003  
+
+10. **Class 1000 Shinkansen/Type-O**  
+    - **Top Speed**: 286 km/h (178 mph)  
+    - **Country**: Japan  
+    - **Year**: 1972  
+
+---
+
+### Specifications and Descriptions of the Trains
+
+- **SNCF TGV POS**  
+  The record-setting trainset was a tuned version of the TGV POS and was built with 2 power cars plus 3 passenger rail cars, different from its usual 8-10 rail cars. No conventional wheeled train has beaten this speed record.
+
+- **CRH380BL**  
+  One of the few unmodified trains to break a record. It achieved its speed during normal service using its 16-car trainset and is the current record holder for the top speed of an unmodified production vehicle.
+
+- **Class 955 Shinkansen**  
+  This prototype train, also called the 300X, was designed to test features and technology that would later be incorporated into newer Shinkansen trains.
+
+- **Hyundai Rotem HEMU-430X**  
+  A 6-car trainset that achieved its record during a maximum speed test. It entered service in South Korea from 2020 to 2021 as the EMU-320.
+
+- **Siemens Velaro E/Ave S-103**  
+  An unmodified train that set the record in 2006, holding it until 2010. This 8-car trainset shares similarities with Germany’s ICE 3 and is part of Siemens' Velaro Family.
+
+- **ICE 3/DB BR 406**  
+  Another unmodified train that set its record in 2001 during an approval run. This type of InterCity Express was developed for international routes.
+
+- **ETR 500 "Frecciarossa"**  
+  The name "Frecciarossa" (red arrow) reflects its red color. The 2009 record was achieved in the Monte Bibele tunnel with a test trainset of 2 power cars and 8 passenger cars.
+
+- **Siemens EuroSprinter**  
+  This locomotive, not part of a high-speed trainset, set its record while pulling one railcar. It holds the record for the maximum speed of an unmodified electric locomotive.
+
+- **BR Class 373/Eurostar e300**  
+  This unmodified train reached its record speed on the High Speed 1 line near Nashenden Valley during routine service. It’s the longest train to set a record with 2 power cars and 18 passenger cars.
+
+- **Class 1000 Shinkansen/Type-O**  
+  The prototype for Japan’s first high-speed train achieved its record on a test track, later becoming the Type-O Shinkansen used in 1964.
+
+## Updates (3/19/25)
 - Added a new **History page**:
   - Title: "The History of American Railroading."
   - Navigation bar links to all sections: `Home`, `Past`, `Present`, `First`, `Future`, and `Records`.
