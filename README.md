@@ -2,7 +2,7 @@
 ## Updates (3/20/25)
 # Added Ordered List and Detailed List to the Records Page
 
-### Ordered List of High-Speed Trains
+# Ordered List of High-Speed Trains
 
 1. **SNCF TGV POS**  
    - **Top Speed**: 574.8 km/h (357 mph)  
