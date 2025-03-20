@@ -1,6 +1,6 @@
 # lis351-schmidt.github.io
-## Updates (3/20/25)
-### Added Ordered List and Detailed List to the Records Page
+# Updates (3/20/25)
+## Added Ordered List and Detailed List to the Records Page
 ### Ordered List of High-Speed Trains
 
 1. **SNCF TGV POS**  
@@ -87,7 +87,25 @@
 - **Class 1000 Shinkansen/Type-O**  
   The prototype for Japan’s first high-speed train achieved its record on a test track, later becoming the Type-O Shinkansen used in 1964.
 
-## Updates (3/19/25)
+### Sample HTML Code
+```html
+<ol>
+  <li>
+    <p><strong>Train Model:</strong> SNCF TGV POS</p>
+    <p>Top Speed: 574.8 km/h (357 mph)</p>
+    <p>Country: France</p>
+    <p>Year: 2007</p>
+  </li>
+  <li>
+    <p><strong>Train Model:</strong> CRH380BL</p>
+    <p>Top Speed: 487.3 km/h (303 mph)</p>
+    <p>Country: China</p>
+    <p>Year: 2010</p>
+  </li>
+</ol>
+```
+
+# Updates (3/19/25)
 - Added a new **History page**:
   - Title: "The History of American Railroading."
   - Navigation bar links to all sections: `Home`, `Past`, `Present`, `First`, `Future`, and `Records`.
